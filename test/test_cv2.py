@@ -15,7 +15,7 @@ input_video = './video_samples/sample5.mp4'
 
 
 # 결과영상의 저장이름을 지정해주세요.(results폴더에 저장 됨)
-output_video = './results/output_video123.mp4'
+output_video = './results/output_video.mp4'
 
 detect_cv2.detection(model = model,
           input_video = input_video,
