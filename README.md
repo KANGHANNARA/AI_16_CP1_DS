@@ -34,9 +34,9 @@
 ### 로컬 환경에서 실행 할 때
 
 1. 레포지토리 클론
-  - `git clone https://github.com/KANGHANNARA/AI_16_CP1_DS`
+   - `git clone https://github.com/KANGHANNARA/AI_16_CP1_DS`
 2. `cd AI_16_CP1_DS`로 폴더로 들어가서 python==3.8로 가상환경을 만듭니다.
-  - `pip install -r requirements.txt` 필요한 라이브러리와 모듈을 설치합니다.
+   - `pip install -r requirements.txt` 필요한 라이브러리와 모듈을 설치합니다.
 3. test/test_cv2.py 파일에서 검증 할 영상의 경로를 입력합니다.
 (default는 샘플영상의 ./video_samples/sample5.mp4)
 4. `python test/test_cv2.py` 로 실행합니다.
